@@ -1,0 +1,8 @@
+Create a Database by name of "task" 
+
+Check for db_username is "root" 
+	db_password is ""
+
+now run the migrations commands 
+
+Ready to use the Todo Task with Edit and Delete Options and and Drang and change the order.
